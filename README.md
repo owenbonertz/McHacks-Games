@@ -1,1 +1,1 @@
-# McHacks-Games
+Simple Python Games
